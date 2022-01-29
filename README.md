@@ -6,8 +6,6 @@
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=RJpedro&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJpedro&layout=compact)](https://github.com/RJpedro)
-
 ### Linguagens que eu mais utilizo no meu local de trabalho
 
 <div style="display: inline-block"><br/>
