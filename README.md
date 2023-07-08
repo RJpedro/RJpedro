@@ -14,5 +14,3 @@
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whitee"/>
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
-
-### Atualmente na parte da manhã estou cursando análise e desenvolvimento de sistemas na Fatec de Cruzeiro (6/6 😎), e na parte da tarde trabalho como estágiario de programação na empresa Mais Top Estética.
