@@ -1,7 +1,6 @@
 ### Olá, Meu nome é João Pedro!! 😄
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-6289bb216/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014950089236)
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=RJpedro&show_icons=true&theme=synthwave)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJpedro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,4 +25,7 @@
     <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
     <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img align="center" alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+    <img align="center" alt="vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+   
 </div><br/>
